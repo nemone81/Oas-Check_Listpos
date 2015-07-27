@@ -1,4 +1,4 @@
 # Oas-Check_Listpos
 
-Controlla ID posizioni oas con la lista di posizioni oas "poslist" delle pagine utilizzando [phantomjs](http://phantomjs.org/).
-
+Check OAS Rich ID against list of OAS position in the OAS_listpos using [phantomjs](http://phantomjs.org/) and a JSON file as URLs feed.  
+command: phantomjs check-oas_poslist-vs-id.js <iPone/iPad>
